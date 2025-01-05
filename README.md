@@ -13,3 +13,4 @@ Algumas das variáveis presentes no dataset:
 # Visualização do projeto 📹
 
 # Imagem final 🖼️
+<img scr ="print-projeto-pb-1.jpeg">
