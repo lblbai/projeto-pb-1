@@ -11,6 +11,6 @@ Algumas das variáveis presentes no dataset:
 - Year
 
 # Visualização do projeto 📹
-
+https://github.com/user-attachments/assets/7585a459-0d38-4cbc-85e0-419abfb5d703
 # Imagem final 🖼️
 ![print-projeto-pb-1](https://github.com/user-attachments/assets/6600497f-2c4c-45ad-b794-9d2b374e91ff)
